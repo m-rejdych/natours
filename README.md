@@ -1,4 +1,4 @@
-#### This is a project of webpage made for fictional Naturous company. Made as a part of Udemy Advanced CSS and SASS course. Here is a dircet link to the course: [Advanced CSS and Sass: Flexbox, Grid, Animations and More!]([Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8312924?start=0#overview)
+#### This is a project of webpage made for fictional Naturous company. Made as a part of Udemy Advanced CSS and SASS course. Here is a dircet link to the course: [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8312924?start=0#overview)
 
 ## Technologies used:
 
