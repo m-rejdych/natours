@@ -10,4 +10,4 @@
 
 ---
 
-#### You can visit the page [here](https://m-rejdych.github.io/Naturous/)
+#### You can visit the page [here](https://m-rejdych.github.io/Natours/)
